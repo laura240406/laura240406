@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakiki6)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📫 How to reach me: Jakiki6#0498 on Discord
+- 📫 How to reach me: laura240406 on Discord
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I use more python than assembly
 - ⚡ Fun fact: I'm 19 years old
