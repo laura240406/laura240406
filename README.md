@@ -1,11 +1,11 @@
 ### Hi there 👋
 - here is some little stats : 
 
-![jakiki6Github_stat](https://github-readme-stats.vercel.app/api?username=jakiki6&hide=issues&show_icons=true)
-![](https://komarev.com/ghpvc/?username=jakiki6)
+![jakiki6Github_stat](https://github-readme-stats.vercel.app/api?username=laura240406&hide=issues&show_icons=true)
+![](https://komarev.com/ghpvc/?username=laura240406)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakiki6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura240406)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me: laura240406 on Discord
 - 😄 Pronouns: she/her
