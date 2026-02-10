@@ -1,7 +1,7 @@
 ### Hi there 👋
 - here is some little stats : 
 
-![jakiki6Github_stat](https://github-readme-stats.vercel.app/api?username=laura240406&hide=issues&show_icons=true)
+![laura240406Github_stat](https://github-readme-stats.vercel.app/api?username=laura240406&hide=issues&show_icons=true)
 ![](https://komarev.com/ghpvc/?username=laura240406)
 
 
